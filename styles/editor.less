@@ -52,7 +52,7 @@ atom-text-editor, :host {
   }
 
   .cursor {
-    border-color: @syntax-cursor-color;
+    border-left: 2px solid @syntax-cursor-color;
   }
 
   .selection .region {
@@ -65,8 +65,8 @@ atom-text-editor, :host {
   }
 
   .bracket-matcher .region {
-    border-bottom: 0;
-    background-color: @base05;
+    border-bottom: 2px solid @syntax-cursor-color;
+    box-sizing: border-box;
   }
 
   .search-results .marker .region {
