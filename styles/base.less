@@ -358,6 +358,20 @@ atom-text-editor, :host {
   }
 }
 
+.git-commit {
+  &.changed {
+    color: @base0B;
+  }
+
+  &.deleted {
+    color: @base08;
+  }
+
+  &.inserted {
+    color: @base0A;
+  }
+}
+
 atom-text-editor[mini] .scroll-view,
 :host([mini]) .scroll-view {
   padding-left: 1px;
