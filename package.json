@@ -2,7 +2,7 @@
   "name": "newbound-light-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A light theme for Atom",
+  "description": "A light syntax theme for Atom",
   "keywords": [
     "syntax",
     "theme"
