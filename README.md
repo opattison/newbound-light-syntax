@@ -1,6 +1,8 @@
 # <a href="https://atom.io/themes/newbound-light-syntax"><img src="https://olivermak.es/icons/favicon32.svg" width="32" height="32"></a> <a href="https://atom.io/themes/newbound-light-syntax">newbound</a> light syntax theme for Atom
 
-**newbound** is a legible, light theme for [Atom](https://atom.io), based on the hues and shades from [Oliver Pattison’s website](https://olivermak.es). Optimized for writing markdown and front-end development, it should also work for general use.
+There aren’t enough legible, intentionally designed light syntax themes for text editors.
+
+**newbound** is a light theme for [Atom](https://atom.io), based on the hues and shades from [Oliver Pattison’s website](https://olivermak.es). Optimized for writing markdown and front-end development, it should also work for general use.
 
 ---
 
