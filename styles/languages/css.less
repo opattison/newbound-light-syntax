@@ -1,0 +1,59 @@
+.source.css,
+.source.scss,
+.source.less {
+  .support {
+    &.function {
+      &.misc {
+        color: @base0C;
+      }
+    }
+  }
+
+  .punctuation {
+    color: @base02;
+  }
+
+  .entity {
+    &.name,
+    &.tag {
+      color: @base0D;
+    }
+
+    &.reference {
+      color: @base0F;
+    }
+
+    &.placeholder {
+
+      .punctuation {
+        color: @base01;
+      }
+    }
+  }
+
+  .keyword {
+    &.at-rule {
+      color: @base0D;
+
+      .punctuation {
+        color: @base01;
+      }
+    }
+
+    &.each,
+    &.for,
+    &.function,
+    &.include,
+    &.import,
+    &.if,
+    &.mixin,
+    &.return,
+    &.while {
+      color: @base0E;
+
+      .punctuation {
+        color: @base01;
+      }
+    }
+  }
+}
