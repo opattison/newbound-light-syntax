@@ -1,16 +1,17 @@
+// support for CSS as well as SCSS, Sass (indented syntax) and Less
 .source.css,
 .source.scss,
+.source.sass,
 .source.less {
-  .support {
-    &.function {
-      &.misc {
-        color: @base0C;
-      }
-    }
-  }
 
   .punctuation {
     color: @base02;
+  }
+
+  .meta {
+    &.brace {
+      color: @base02;
+    }
   }
 
   .entity {
@@ -23,6 +24,11 @@
       color: @base0F;
     }
 
+    &.pseudo-class,
+    &.pseudo-element {
+      color: @base0C;
+    }
+
     &.placeholder {
 
       .punctuation {
@@ -31,16 +37,28 @@
     }
   }
 
+  .variable {
+    &.other {
+      color: @base09;
+    }
+
+    &.other.less {
+      color: @base08;
+    }
+  }
+
   .keyword {
+
+    .punctuation {
+      color: @base01;
+    }
+
     &.at-rule {
       color: @base0D;
-
-      .punctuation {
-        color: @base01;
-      }
     }
 
     &.each,
+    &.extend,
     &.for,
     &.function,
     &.include,
@@ -50,10 +68,10 @@
     &.return,
     &.while {
       color: @base0E;
+    }
 
-      .punctuation {
-        color: @base01;
-      }
+    &.important {
+      color: @base0F;
     }
   }
 
