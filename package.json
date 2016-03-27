@@ -2,10 +2,12 @@
   "name": "newbound-light-syntax",
   "theme": "syntax",
   "version": "0.4.1",
-  "description": "A light syntax theme for Atom",
+  "description": "A legible, moderately high contrast, light syntax theme for Atom",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "light",
+    "markdown"
   ],
   "repository": "https://github.com/opattison/newbound-light-syntax",
   "license": "MIT",
