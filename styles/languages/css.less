@@ -3,16 +3,15 @@
 .source.scss,
 .source.sass,
 .source.less {
-  .support {
-    &.function {
-      &.misc {
-        color: @base0C;
-      }
-    }
-  }
 
   .punctuation {
     color: @base02;
+  }
+
+  .meta {
+    &.brace {
+      color: @base02;
+    }
   }
 
   .entity {
@@ -49,12 +48,13 @@
   }
 
   .keyword {
+
+    .punctuation {
+      color: @base01;
+    }
+
     &.at-rule {
       color: @base0D;
-
-      .punctuation {
-        color: @base01;
-      }
     }
 
     &.each,
@@ -68,10 +68,10 @@
     &.return,
     &.while {
       color: @base0E;
+    }
 
-      .punctuation {
-        color: @base01;
-      }
+    &.important {
+      color: @base0F;
     }
   }
 
