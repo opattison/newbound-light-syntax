@@ -1,0 +1,28 @@
+.source.json {
+  .meta.structure.dictionary {
+    .string.quoted {
+      color: @base0D;
+    }
+
+    // value hack until this is better supported in Atom
+    & > .value.json > .string.json {
+      color: @base0B;
+    }
+  }
+
+  .meta.structure.array {
+    .string.quoted {
+      color: @base0B;
+    }
+  }
+
+  .meta.structure {
+    .punctuation {
+      color: @base02;
+
+      &.key-value {
+        color: @base01;
+      }
+    }
+  }
+}
