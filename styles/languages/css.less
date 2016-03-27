@@ -1,5 +1,7 @@
+// support for CSS as well as SCSS, Sass (indented syntax) and LESS
 .source.css,
 .source.scss,
+.source.sass,
 .source.less {
   .support {
     &.function {
@@ -23,11 +25,22 @@
       color: @base0F;
     }
 
+    &.pseudo-class,
+    &.pseudo-element {
+      color: @base0C;
+    }
+
     &.placeholder {
 
       .punctuation {
         color: @base01;
       }
+    }
+  }
+
+  .variable {
+    &.other {
+      color: @base09;
     }
   }
 
@@ -41,6 +54,7 @@
     }
 
     &.each,
+    &.extend,
     &.for,
     &.function,
     &.include,
