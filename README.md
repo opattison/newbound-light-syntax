@@ -13,7 +13,7 @@ There aren’t enough legible, intentionally designed light syntax themes for te
 - Moderately high contrast without any harsh color pairings
 - Consistent support for syntax grammar across languages
 - Carefully selected, [Base16](https://github.com/chriskempson/base16)-inspired palette
-- Support for UIs that are responsive to hues from syntax themes, like the built-in [One Light UI theme](https://github.com/atom/one-light-ui)
+- Support for UIs that are responsive to hues from syntax themes, like the built-in [One Light UI theme](https://atom.io/themes/one-light-ui)
 - Subtle `invisibles` (if enabled in Settings)
 - Suitable for monospace fonts without an italic variant
 
@@ -32,7 +32,11 @@ There aren’t enough legible, intentionally designed light syntax themes for te
 
 General support for other languages is intended but not guaranteed. I have done brief testing of syntax highlighting for other languages.
 
+## Works best with
+
 **newbound** is especially friendly toward [Jekyll](https://jekyllrb.com) development, particularly if used with [liquid-language](https://atom.io/packages/language-liquid) support (not built-in).
+
+Optimized for [One Light UI](https://atom.io/themes/one-light-ui) and [One Dark UI](https://atom.io/themes/one-dark-ui).
 
 ---
 
