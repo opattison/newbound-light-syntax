@@ -1,8 +1,10 @@
-# newbound light syntax theme for Atom
+# <a href="https://atom.io/themes/newbound-light-syntax"><img src="https://olivermak.es/icons/favicon32.svg" width="32" height="32"></a> <a href="https://atom.io/themes/newbound-light-syntax">newbound</a> light syntax theme for Atom
 
-## (work in progress – will be stable at 1.0)
+**newbound** is a legible, light theme for [Atom](https://atom.io), based on the hues and shades from [Oliver Pattison’s website](https://olivermak.es). Optimized for writing markdown and front-end development, it should also work for general use.
 
-A legible, light theme for [Atom](https://atom.io), based on the hues and shades from [my website](https://olivermak.es). Optimized for writing markdown and front-end code.
+---
+
+[View on Atom.io](https://atom.io/themes/newbound-light-syntax) / [View on GitHub](https://github.com/opattison/newbound-light-syntax)
 
 ## Features
 
@@ -16,7 +18,7 @@ A legible, light theme for [Atom](https://atom.io), based on the hues and shades
 ## Specific support for these syntaxes
 
 - HTML
-- Markdown
+- (GitHub-flavored) Markdown
 - Liquid
 - CSS
 - SCSS/Sass
@@ -25,6 +27,10 @@ A legible, light theme for [Atom](https://atom.io), based on the hues and shades
 - JSON
 - YAML
 - Ruby
+
+General support for other languages is intended but not guaranteed. I have done brief testing of syntax highlighting for other languages.
+
+**newbound** is especially friendly toward [Jekyll](https://jekyllrb.com) development, particularly if used with [liquid-language](https://atom.io/packages/language-liquid) support (not built-in).
 
 ---
 
