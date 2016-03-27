@@ -8,9 +8,9 @@ A legible, light theme for Atom, based on the hues and shades from [my website](
 
 - Moderately high contrast without any harsh color transitions
 - Consistent support for syntax grammar across languages
-- [Base16](https://github.com/chriskempson/base16)-inspired palette
+- Carefully selected, [Base16](https://github.com/chriskempson/base16)-inspired palette
 - Support for UIs that are responsive to hues from syntax themes, like the built-in [One Light UI theme](https://github.com/atom/one-light-ui)
-- Legible `invisibles` (if enabled)
+- Legible, subtle `invisibles` (if enabled in Settings)
 - Suitable for monospace fonts without italics
 
 ## Specific support for these syntaxes
@@ -34,10 +34,10 @@ This theme can be installed with the Atom package manager either in the app or o
 
 ### Within Atom
 
-Search in **Settings > Install** for this package.
+Search in **Settings (Preferences) > Install** for this package.
 
 ### Or on a command line
 
 `$ apm install newbound-light-syntax`
 
-After it is installed, it can be activated by going to the **Settings > Themes** section and selecting it from the **Syntax Theme** menu.
+After it is installed, it can be activated by going to the **Settings (Preferences) > Themes** section and selecting it from the **Syntax Theme** menu.
