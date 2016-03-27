@@ -1,4 +1,8 @@
 .source.js {
+  .punctuation {
+    color: @base02;
+  }
+
   .keyword.operator {
     color: @base01;
 
@@ -15,5 +19,25 @@
     &.comparison {
       color: @base0E;
     }
+  }
+
+  .function {
+    &.parameter {
+      color: @base01;
+    }
+  }
+
+  .meta {
+    &.brace {
+      color: @base02;
+    }
+
+    &.arguments {
+      color: @base01;
+    }
+  }
+
+  .comment {
+    color: @base03;
   }
 }
