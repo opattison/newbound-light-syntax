@@ -6,7 +6,9 @@ There aren’t enough legible, intentionally designed light syntax themes for te
 
 ![multiple syntax examples in a text editor](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-multiple.png)
 
-[View on Atom.io](https://atom.io/themes/newbound-light-syntax) / [View on GitHub](https://github.com/opattison/newbound-light-syntax)
+[View on Atom.io](https://atom.io/themes/newbound-light-syntax)
+
+[View on GitHub](https://github.com/opattison/newbound-light-syntax)
 
 ## Features
 
@@ -30,7 +32,7 @@ There aren’t enough legible, intentionally designed light syntax themes for te
 - YAML
 - Ruby
 
-General support for other languages is intended but not guaranteed. I have done brief testing of syntax highlighting for other languages.
+General support for other languages is intended but not guaranteed.
 
 ## Works best with
 
@@ -50,13 +52,13 @@ Dark UI (and `invisibles` turned on).
 
 ![Ruby code sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-ruby-select.png)
 
-Ruby (with multiple lines of text selected).
+Multiple lines of text selected.
 
 ---
 
 ## Install
 
-This theme can be installed with the Atom package manager either in the app or on the command line.
+This theme can be installed with the Atom package manager in the app or on the command line.
 
 ### Within Atom
 
