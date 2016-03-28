@@ -90,20 +90,6 @@
       color: @base02;
     }
 
-    &.heading,
-    &.identity {
-      color: @base0D;
-    }
-
-    &.bold {
-      color: @base09;
-      font-weight: bolder;
-    }
-
-    &.italic {
-      color: @base0D;
-    }
-
     &.entity {
       color: @base0D;
     }
@@ -201,19 +187,17 @@
   }
 
   &.bold {
-    color: @base0D;
+    color: @base08;
   }
 
   &.italic {
     color: @base0B;
   }
 
-  &.list {
-    color: @base08;
-  }
-
-  &.quote {
-    color: @base09;
+  &.raw {
+    background-color: fadeout(@base05, 80%);
+    color: @base0C;
+    padding-top: 1px;
   }
 
   &.changed {
@@ -226,10 +210,6 @@
 
   &.inserted {
     color: @syntax-color-added;
-  }
-
-  &.raw.inline {
-    color: @base0B;
   }
 }
 
