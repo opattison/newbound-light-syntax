@@ -1,10 +1,10 @@
-# <a href="https://atom.io/themes/newbound-light-syntax"><img src="https://olivermak.es/icons/favicon32.svg" width="32" height="32"></a> <a href="https://atom.io/themes/newbound-light-syntax">newbound</a> light syntax theme for Atom
+# <a href="https://atom.io/themes/newbound-light-syntax"><img src="http://opensource.olivermak.es/images/2016-03-27-olivermakes-favicon32.svg" width="32" height="32"></a> <a href="https://atom.io/themes/newbound-light-syntax">newbound</a> light syntax theme for Atom
 
 There aren’t enough legible, intentionally designed light syntax themes for text editors.
 
 **newbound** is a light theme for [Atom](https://atom.io), based on the hues and shades from [Oliver Pattison’s website](https://olivermak.es). Optimized for writing markdown and front-end development, it should also work for general use.
 
----
+![multiple syntax examples in a text editor](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-multiple.png)
 
 [View on Atom.io](https://atom.io/themes/newbound-light-syntax) / [View on GitHub](https://github.com/opattison/newbound-light-syntax)
 
@@ -37,6 +37,20 @@ General support for other languages is intended but not guaranteed. I have done 
 **newbound** is especially friendly toward [Jekyll](https://jekyllrb.com) development, particularly if used with [liquid-language](https://atom.io/packages/language-liquid) support (not built-in).
 
 Optimized for [One Light UI](https://atom.io/themes/one-light-ui) and [One Dark UI](https://atom.io/themes/one-dark-ui).
+
+![HTML and Liquid text sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-html-liquid.png)
+
+![Markdown text sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-md.png)
+
+![JavaScript code sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-javascript.png)
+
+![SCSS text sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-scss--dark.png)
+
+Dark UI (and `invisibles` turned on).
+
+![Ruby code sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-ruby-select.png)
+
+Ruby (with multiple lines of text selected).
 
 ---
 
