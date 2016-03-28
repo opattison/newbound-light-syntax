@@ -36,25 +36,29 @@ There aren’t enough legible, intentionally designed light syntax themes for te
 
 General support for other languages is intended but not guaranteed.
 
-## Works best with
-
 **newbound** is friendly toward [Jekyll](https://jekyllrb.com) development, particularly if used with [liquid-language](https://atom.io/packages/language-liquid) support (not built-in).
 
 Optimized for [One Light UI](https://atom.io/themes/one-light-ui) and [One Dark UI](https://atom.io/themes/one-dark-ui).
 
+### HTML
+
 ![HTML and Liquid text sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-html-liquid.png)
+
+### Markdown
 
 ![Markdown text sample](http://opensource.olivermak.es/images/2016-03-28-newbound-light-sample-md.png)
 
+### JavaScript
+
 ![JavaScript code sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-javascript.png)
+
+### CSS/SCSS/Sass/Less
 
 ![SCSS text sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-scss--dark.png)
 
-Dark UI (and `invisibles` turned on).
+### Ruby
 
 ![Ruby code sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-ruby-select.png)
-
-Multiple lines of text selected.
 
 ---
 
