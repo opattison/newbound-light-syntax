@@ -1,12 +1,12 @@
-# <a href="https://atom.io/themes/newbound-light-syntax"><img src="http://opensource.olivermak.es/images/2016-03-27-olivermakes-favicon32.svg" width="32" height="32"></a> <a href="https://atom.io/themes/newbound-light-syntax">newbound</a> light syntax theme for Atom
+# <a href="https://atom.io/themes/newbound-light-syntax"><img src="http://opensource.olivermak.es/images/2016-03-27-olivermakes-favicon32.svg" width="32" height="32"></a> <a href="https://atom.io/themes/newbound-light-syntax">newbound light</a> syntax theme for Atom
 
 There aren’t enough legible, intentionally designed light syntax themes for text editors.
 
-**newbound** is a light theme for [Atom](https://atom.io), based on the hues and shades from [Oliver Pattison’s website](https://olivermak.es). Optimized for writing Markdown and front-end development, it should also work for general use.
+**newbound light** is a theme for [Atom](https://atom.io), based on the hues and shades from [Oliver Pattison’s website](https://olivermak.es). Optimized for writing Markdown and front-end development, it should also work for general use.
 
 ![16 swatches of each color](http://opensource.olivermak.es/images/2016-03-27-swatches.png)
 
-![multiple syntax examples in a text editor](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-multiple.png)
+![sample of basic Markdown](http://opensource.olivermak.es/images/2016-03-28-newbound-light-sample-text.png)
 
 [View on Atom.io](https://atom.io/themes/newbound-light-syntax)
 
@@ -14,7 +14,7 @@ There aren’t enough legible, intentionally designed light syntax themes for te
 
 ## Features
 
-- Moderately high contrast without any harsh color pairings
+- Moderately high contrast without any dissonant color pairings
 - Consistent support for syntax grammar across languages
 - Carefully selected, [Base16](https://github.com/chriskempson/base16)-inspired palette
 - Support for UIs that are responsive to hues from syntax themes, like the built-in [One Light UI theme](https://atom.io/themes/one-light-ui)
@@ -44,7 +44,7 @@ Optimized for [One Light UI](https://atom.io/themes/one-light-ui) and [One Dark 
 
 ![HTML and Liquid text sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-html-liquid.png)
 
-![Markdown text sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-md.png)
+![Markdown text sample](http://opensource.olivermak.es/images/2016-03-28-newbound-light-sample-md.png)
 
 ![JavaScript code sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-javascript.png)
 
