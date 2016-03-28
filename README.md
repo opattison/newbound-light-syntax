@@ -2,7 +2,7 @@
 
 There aren’t enough legible, intentionally designed light syntax themes for text editors.
 
-**newbound** is a light theme for [Atom](https://atom.io), based on the hues and shades from [Oliver Pattison’s website](https://olivermak.es). Optimized for writing markdown and front-end development, it should also work for general use.
+**newbound** is a light theme for [Atom](https://atom.io), based on the hues and shades from [Oliver Pattison’s website](https://olivermak.es). Optimized for writing Markdown and front-end development, it should also work for general use.
 
 ![16 swatches of each color](http://opensource.olivermak.es/images/2016-03-27-swatches.png)
 
@@ -38,7 +38,7 @@ General support for other languages is intended but not guaranteed.
 
 ## Works best with
 
-**newbound** is especially friendly toward [Jekyll](https://jekyllrb.com) development, particularly if used with [liquid-language](https://atom.io/packages/language-liquid) support (not built-in).
+**newbound** is friendly toward [Jekyll](https://jekyllrb.com) development, particularly if used with [liquid-language](https://atom.io/packages/language-liquid) support (not built-in).
 
 Optimized for [One Light UI](https://atom.io/themes/one-light-ui) and [One Dark UI](https://atom.io/themes/one-dark-ui).
 

@@ -6,8 +6,10 @@
   "keywords": [
     "syntax",
     "theme",
+    "legible",
     "light",
-    "markdown"
+    "markdown",
+    "gray"
   ],
   "repository": "https://github.com/opattison/newbound-light-syntax",
   "license": "MIT",
