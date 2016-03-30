@@ -2,11 +2,11 @@
 
 There aren’t enough legible, intentionally designed light syntax themes for text editors.
 
-**newbound light** is a theme for [Atom](https://atom.io), based on the hues and shades from [Oliver Pattison’s website](https://olivermak.es). Optimized for writing Markdown and front-end development, it should also work for general use.
+**newbound light** is a theme for [Atom](https://atom.io), based on the hues and shades from [Oliver Pattison’s website](https://olivermak.es). Optimized for writing Markdown and front-end development, it should also work for general use. [Check out newbound dark](https://atom.io/themes/newbound-dark-syntax) as well.
 
-![16 swatches of each color](http://opensource.olivermak.es/images/2016-03-27-swatches.png)
+![16 swatches of each color](http://opensource.olivermak.es/images/2016-03-29-newbound-light-swatches.png)
 
-![sample of basic Markdown](http://opensource.olivermak.es/images/2016-03-28-newbound-light-sample-text.png)
+![sample of newbound colors](http://opensource.olivermak.es/images/2016-03-30-newbound-light-sample.png)
 
 [View on Atom.io](https://atom.io/themes/newbound-light-syntax)
 
@@ -19,6 +19,7 @@ There aren’t enough legible, intentionally designed light syntax themes for te
 - Carefully selected, [Base16](https://github.com/chriskempson/base16)-inspired palette
 - Support for UIs that are responsive to hues from syntax themes, like the built-in [One Light UI theme](https://atom.io/themes/one-light-ui)
 - Subtle `invisibles` (if enabled in Settings)
+- Bracket matching style
 - Suitable for monospace fonts without an italic variant
 
 ## Specific support for these syntaxes
@@ -33,6 +34,7 @@ There aren’t enough legible, intentionally designed light syntax themes for te
 - JSON
 - YAML
 - Ruby
+- todo
 
 General support for other languages is intended but not guaranteed.
 
@@ -40,27 +42,25 @@ General support for other languages is intended but not guaranteed.
 
 Optimized for [One Light UI](https://atom.io/themes/one-light-ui) and [One Dark UI](https://atom.io/themes/one-dark-ui).
 
-### HTML
+### HTML (and Liquid)
 
-![HTML and Liquid text sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-html-liquid.png)
+![HTML and Liquid text sample](http://opensource.olivermak.es/images/2016-03-29-newbound-light-html.png)
 
 ### Markdown
 
-![Markdown text sample](http://opensource.olivermak.es/images/2016-03-28-newbound-light-sample-md.png)
+![Markdown text sample](http://opensource.olivermak.es/images/2016-03-29-newbound-light-md.png)
 
 ### JavaScript
 
-![JavaScript code sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-javascript.png)
+![JavaScript code sample](http://opensource.olivermak.es/images/2016-03-29-newbound-light-js.png)
 
-### CSS/SCSS/Sass/Less
+### SCSS (or CSS, Sass, or Less)
 
-![SCSS text sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-scss--dark.png)
+![SCSS text sample](http://opensource.olivermak.es/images/2016-03-29-newbound-light-scss.png)
 
 ### Ruby
 
-![Ruby code sample](http://opensource.olivermak.es/images/2016-03-27-newbound-light-sample-ruby-select.png)
-
----
+![Ruby code sample](http://opensource.olivermak.es/images/2016-03-29-newbound-light-ruby.png)
 
 ## Install
 
